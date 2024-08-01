@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(236, 198, 211);
+}
+.container{
+    height: 500px;
+    width:315px;
+    background-color:#d05d7c;
+    position: relative;
+    border-radius: 20px;
+    margin-left: 38%;
+    margin-top: 40px;
+    box-shadow: 0px 0px 7px 5px rgb(57, 2, 2);
+}
+h1{
+    align-items: center;
+    position: absolute;
+    top: 15px;
+    left: 25px;
+    font-size: 1.6rem;
+}
+button{
+    align-items: center;
+    position: absolute;
+    top: 80px;
+    left: 70px;
+    background-color:rgb(71, 78, 82);    
+    border-radius: 18px;
+    border: rgb(146, 74, 74);
+}
+
+img{
+ align-items: center;
+ position: absolute;
+ top: 125px;
+ left: 87px;
+ border-radius: 65px;
+}
+h2{
+    align-items: center;
+    position: absolute;
+    top: 260px;
+    left: 66px;
+}
+
+ #user-email{
+    align-items: center;
+    position: absolute;
+    top: 300px;
+    left: 57px;
+ }
+
+ #user-location{
+    align-items: center;
+    position: absolute;
+    top: 330px;
+    left: 80px;
+
+ }
